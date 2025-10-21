@@ -1,0 +1,5 @@
+{
+  "name": "Visualizador de Mármores e Pedras",
+  "description": "Um aplicativo que permite aos usuários visualizar como diferentes tipos de mármores e pedras ficariam em seus próprios espaços. Basta escolher uma pedra, enviar uma foto do local e a IA gerará uma imagem realista da aplicação.",
+  "requestFramePermissions": []
+}
